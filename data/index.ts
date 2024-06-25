@@ -68,3 +68,38 @@ export const gridItems = [
     spareImg: "",
   },
 ];
+
+export const projects = [
+  {
+    id: 1,
+    title: "Lorem Ipsum is simply dummy text",
+    des: "This is just a description of the project.",
+    img: "/p1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "www.google.com",
+  },
+  {
+    id: 2,
+    title: "Lorem Ipsum is simply dummy text",
+    des: "This is just a description of the project.",
+    img: "/p2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "www.google.com",
+  },
+  {
+    id: 3,
+    title: "Lorem Ipsum is simply dummy text",
+    des: "This is just a description of the project.",
+    img: "/p3.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "www.google.com",
+  },
+  {
+    id: 4,
+    title: "Lorem Ipsum is simply dummy text",
+    des: "This is just a description of the project.",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "www.google.com",
+  },
+];

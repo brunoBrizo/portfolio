@@ -200,3 +200,21 @@ export const workExperience = [
     thumbnail: "/exp4.svg",
   },
 ];
+
+export const socialMedia = [
+  {
+    id: 1,
+    img: "/git.svg",
+    url: "https://github.com/brunoBrizo",
+  },
+  {
+    id: 2,
+    img: "/link.svg",
+    url: "https://www.linkedin.com/in/bruno-brizolara/",
+  },
+  {
+    id: 3,
+    img: "/insta.svg",
+    url: "https://www.instagram.com/brunobrizo/",
+  },
+];

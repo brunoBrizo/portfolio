@@ -103,3 +103,69 @@ export const projects = [
     link: "www.google.com",
   },
 ];
+
+export const testimonials = [
+  {
+    quote:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+  {
+    quote:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+    name: "Michael Johnson",
+    title: "Director of AlphaStream Technologies",
+  },
+];
+
+export const companies = [
+  {
+    id: 1,
+    name: "cloudinary",
+    img: "/cloud.svg",
+    nameImg: "/cloudName.svg",
+  },
+  {
+    id: 2,
+    name: "appwrite",
+    img: "/app.svg",
+    nameImg: "/appName.svg",
+  },
+  {
+    id: 3,
+    name: "HOSTINGER",
+    img: "/host.svg",
+    nameImg: "/hostName.svg",
+  },
+  {
+    id: 4,
+    name: "stream",
+    img: "/s.svg",
+    nameImg: "/streamName.svg",
+  },
+  {
+    id: 5,
+    name: "docker.",
+    img: "/dock.svg",
+    nameImg: "/dockerName.svg",
+  },
+];
